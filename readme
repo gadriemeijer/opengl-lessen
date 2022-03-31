@@ -1,9 +1,0 @@
-glxinfo		geeft uitgebreide info over glfw
-
-git init		// new folder add .git to it.
-git add .		// add files to be committed.
-git commit -m "firtst commit"		// changes are saved
-git branch name				// nog niet bekend.
-git status		// overview
-git diff		// difference of last changes
-git diff cached		// een soort history.
